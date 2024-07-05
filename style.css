@@ -1,0 +1,18 @@
+.content{
+    width: 80%;
+    height: 500px;
+    margin: auto;
+    background-color: bisque;
+}
+.image{
+    width: 50%;
+}
+.form{
+    width: 50%;
+}
+.space{
+    height: 10px;
+}
+.button{
+    justify-content: space-between;
+}
